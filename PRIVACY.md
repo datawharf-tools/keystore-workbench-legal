@@ -38,7 +38,7 @@ Trials, subscriptions and payments for the Pro features are handled by JetBrains
 
 ## EU representative
 
-We have not appointed a representative in the European Union under GDPR Art. 27, because our processing is occasional, does not involve large-scale special categories of data, and is unlikely to result in a risk to people's rights and freedoms (Art. 27(2)(a)). Our processing is limited to the sales-report and support data above.
+We have assessed that our limited processing (the sales-report and support data above) falls within the exception in GDPR Art. 27(2), so we have not appointed a representative in the European Union. For any data request, contact us at hello@datawharftools.com.
 
 ## Contact
 
