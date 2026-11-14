@@ -102,7 +102,7 @@ This EULA is governed by the laws of the State of Florida, USA, without regard t
 
 **10.1 Entire agreement.** This EULA is the entire agreement between you and the Developer about the Plugin. Your purchase of a Subscription through JetBrains Marketplace is also subject to JetBrains' terms, which are between you and JetBrains.
 
-**10.2 Changes.** The Developer may update this EULA for future Plugin Versions. The version of this EULA that accompanies a Plugin Version applies to your use of that Plugin Version. A change will not reduce your rights to the Paid Features for the remainder of a Subscription Period you have already paid for. Previous versions of this EULA are available at https://github.com/Noxgrid-Systems-LLC/keystore-workbench-legal.
+**10.2 Changes.** The Developer may update this EULA for future Plugin Versions. The version of this EULA that accompanies a Plugin Version applies to your use of that Plugin Version. A change will not reduce your rights to the Paid Features for the remainder of a Subscription Period you have already paid for. Previous versions of this EULA are available at https://github.com/datawharf-tools/keystore-workbench-legal.
 
 **10.3 Severability.** If any part of this EULA is found unenforceable, it will be enforced to the maximum extent permitted, and the rest of this EULA remains in effect.
 
